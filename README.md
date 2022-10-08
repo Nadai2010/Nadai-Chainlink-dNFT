@@ -31,14 +31,14 @@ Ahora que ya tenemos las imagenes las subiremos a un servicio de IPFS, teniendo 
 Accedemos a [Pinata](https://www.pinata.cloud/) nos registramos y hacemos login. Una vez dentro
 de la app, (Sino lo les entra acceder desde [AQUI](https://app.pinata.cloud/)).
 
-![Graph](/contracts/Imagenes/Tutorial/dnft1.png)
+![Graph](imagenes/Tutorial/dnft1.png)
 
 Seleccionamos la carpeta completa que queremos subir y se nos creara una carpeta con su CID.
 Accedemos a ella y veremos que está todos nuestras imagenes, en las que tenemos que ir cogiendo su `CID` pero al meterlo en carpeta será el mismo y de una forma mas ordenada, vamos a las fotos y lo veremos mejor.
 
-![Graph](/contracts/Imagenes/Tutorial/dnft2.png)
+![Graph](imagenes/Tutorial/dnft2.png)
 
-![Graph](/contracts/Imagenes/Tutorial/dnft3.png)
+![Graph](imagenes/Tutorial/dnft3.png)
 
 Como vemos nuestro CID aquí seran los mismos en nuestros NadaiMon cambiando el ultimo `/NadaiMon.png`, por `1`, `2`, así hasta completar las 11 de esta edición.
 NOTA: Si se añaden sin carpeta quedarian todos con CID distintos.
@@ -53,8 +53,11 @@ Puede consultar [Standar](https://docs.opensea.io/docs/metadata-standards) y mod
 
 Si esta sigiendo el tutorial de NadaiMon puede ver una metadata base de la siguiente manera:
 
-![Graph](/contracts/Imagenes/Tutorial/dnft4.png)
-![Graph](/contracts/Imagenes/Tutorial/dnft5.png),![Graph](/contracts/Imagenes/Tutorial/dnft3.png)
+![Graph](imagenes/Tutorial/dfnt4.png)
+
+![Graph](imagenes/Tutorial/dnft5.png)
+
+![Graph](imagenes/Tutorial/dnft3.png)
 
 En estos 11 archivos hacen referencia a las imagenes que hemos subido antes a Pinata, por lo que deberemos remplazar en estos `.json` los `CID` que nos han dado. Asi que cambiaremos los 11 por otros que queramos añadir (PARA HACER EL DEPLOY PUEDE USAR SOLO EL SMART `NadaiMondNDT.sol`, SIN NINGUN CAMBIO), ya que aquí indicaremos un poco los ajustes realizados para entender su funcionamiento pero no profundarizaremos demasiado, cualquier duda final recuerde revisar [Workshop Chainlink](https://www.youtube.com/watch?v=1l6iuhn65HM).
 
