@@ -1,0 +1,46 @@
+{
+    "name": "NadaiMon, colección de criaturas Dinámicas",
+    "description" : "Estas criaturas Evolucionan con el tiempo, se alimentarán de LINK",
+    "image" : "https://ipfs.io/ipfs/QmQuQfriDqfBZKBJ5dS7T5BBLo3L8hB8c9dtL4ViPqGK6u/NadaiMon.png",
+    "attributes": [
+        {
+            "trait_type": "Nombre", 
+            "value": "Eeve"
+        }, 
+        {
+            "trait_type": "Tipo", 
+            "value": "Normal"
+        }, 
+        {
+            "trait_type": "Habilidad", 
+            "value": "Agilidad"
+        }, 
+        {
+            "trait_type": "Level", 
+            "value": 1
+        }, 
+        {
+            "trait_type": "Potencia", 
+            "value": 35
+        }, 
+        {
+            "trait_type": "Personalidad", 
+            "value": "Alegre"
+        }, 
+        {
+            "display_type": "boost_number", 
+            "trait_type": "Potencia Nominal", 
+            "value": 35
+        }, 
+        {
+            "display_type": "boost_percentage", 
+            "trait_type": "Potencia Incrementada", 
+            "value": 10
+        }, 
+        {
+            "display_type": "number", 
+            "trait_type": "Generación", 
+            "value": 1
+        }
+    ]
+}

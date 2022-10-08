@@ -1,0 +1,46 @@
+{
+    "name": "NadaiMon, colección de criaturas Dinámicas",
+    "description" : "Estas criaturas Evolucionan con el tiempo, se alimentarán de LINK",
+    "image" : "https://ipfs.io/ipfs/QmQuQfriDqfBZKBJ5dS7T5BBLo3L8hB8c9dtL4ViPqGK6u/NadaiMon11.png",
+    "attributes": [
+        {
+            "trait_type": "Nombre", 
+            "value": "NadaiMonCollection"
+        }, 
+        {
+            "trait_type": "Tipo", 
+            "value": "Familia"
+        }, 
+        {
+            "trait_type": "Habilidad", 
+            "value": "Amor"
+        }, 
+        {
+            "trait_type": "Level", 
+            "value": 5
+        }, 
+        {
+            "trait_type": "Potencia", 
+            "value": 100
+        }, 
+        {
+            "trait_type": "Personalidad", 
+            "value": "Alegria"
+        }, 
+        {
+            "display_type": "boost_number", 
+            "trait_type": "Potencia Familia", 
+            "value": 100
+        }, 
+        {
+            "display_type": "boost_percentage", 
+            "trait_type": "Potencia Incrementada", 
+            "value": 100
+        }, 
+        {
+            "display_type": "number", 
+            "trait_type": "Generación", 
+            "value": 11
+        }
+    ]
+}

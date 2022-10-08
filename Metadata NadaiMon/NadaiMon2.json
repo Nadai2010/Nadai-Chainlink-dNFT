@@ -1,0 +1,46 @@
+{
+    "name": "NadaiMon, colección de criaturas Dinámicas",
+    "description" : "Estas criaturas Evolucionan con el tiempo, se alimentarán de LINK",
+    "image" : "https://ipfs.io/ipfs/QmQuQfriDqfBZKBJ5dS7T5BBLo3L8hB8c9dtL4ViPqGK6u/NadaiMon2.png",
+    "attributes": [
+        {
+            "trait_type": "Nombre", 
+            "value": "Vaporeon"
+        }, 
+        {
+            "trait_type": "Tipo", 
+            "value": "Agua"
+        }, 
+        {
+            "trait_type": "Habilidad", 
+            "value": "Velocidad"
+        }, 
+        {
+            "trait_type": "Level", 
+            "value": 2
+        }, 
+        {
+            "trait_type": "Potencia", 
+            "value": 40
+        }, 
+        {
+            "trait_type": "Personalidad", 
+            "value": "Rebelde"
+        }, 
+        {
+            "display_type": "boost_number", 
+            "trait_type": "Potencia Acuática", 
+            "value": 40
+        }, 
+        {
+            "display_type": "boost_percentage", 
+            "trait_type": "Potencia Incrementada", 
+            "value": 25
+        }, 
+        {
+            "display_type": "number", 
+            "trait_type": "Generación", 
+            "value": 2
+        }
+    ]
+}

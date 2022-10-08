@@ -1,0 +1,27 @@
+{
+    "name": "Colección de Nadai Girl Super Guerreras",
+    "description" : "Avatares de Super Guerreras que Evolucionan en tiempo",
+    "image" : "https://ipfs.io/ipfs/QmfMtq9n9FuH4JWLRQXdWLyTyAUQebx3kA4W4CareffC7H/NadaiLegendNFT.3.png",
+    "attributes": [
+        {
+            "trait_type": "Sexo",
+            "value": "Chica"
+        },
+        {
+            "trait_type": "Nombre",
+            "value": "Gold_Ahri"
+        },
+        {
+            "trait_type": "Level", 
+            "value": 4
+        }, 
+        {
+            "trait_type": "Fuerza", 
+            "value": 5
+        }, 
+        {
+            "trait_type": "Personalidad", 
+            "value": "Diosa"
+        } 
+    ]
+}
