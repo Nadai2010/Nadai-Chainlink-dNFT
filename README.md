@@ -51,7 +51,15 @@ En este repositorio encontrará los Metadata que usaremos para nuestros NadaiMon
 
 Puede consultar [Standar](https://docs.opensea.io/docs/metadata-standards) y modificar sus ajustes con cualquier editor. En nuestro caso usamos Vscode.
 
-Si ha 
+Si esta sigiendo el tutorial de NadaiMon puede ver una metadata base de la siguiente manera:
+
+![Graph](/contracts/Imagenes/Tutorial/dnft4.png)
+![Graph](/contracts/Imagenes/Tutorial/dnft5.png),![Graph](/contracts/Imagenes/Tutorial/dnft3.png)
+
+En estos 11 archivos hacen referencia a las imagenes que hemos subido antes a Pinata, por lo que deberemos remplazar en estos `.json` los `CID` que nos han dado. Asi que cambiaremos los 11 por otros que queramos añadir (PARA HACER EL DEPLOY PUEDE USAR SOLO EL SMART `NadaiMondNDT.sol`, SIN NINGUN CAMBIO), ya que aquí indicaremos un poco los ajustes realizados para entender su funcionamiento pero no profundarizaremos demasiado, cualquier duda final recuerde revisar [Workshop Chainlink](https://www.youtube.com/watch?v=1l6iuhn65HM).
+
+
+
 
 ## Chainlink Automation
 
